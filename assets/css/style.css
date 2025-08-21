@@ -8,8 +8,10 @@ body {
       background-color: black;
 }
 
-b {
-      color: rgb(159, 54, 190);
+.hard-work {
+      background: linear-gradient(241.16deg, rgba(255, 119, 233, 0.97) 17.37%, #0500FF 67.75%);
+      background-clip: text;
+      color: transparent;
 }
 
 .parent-box {
