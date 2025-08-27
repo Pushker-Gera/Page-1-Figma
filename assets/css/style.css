@@ -21,17 +21,15 @@ body {
       display: flex;
       align-items: center;
       justify-content: center;
-      max-width: 1207px;
 }
 
 .child-box {
       color: white;
-      width: 40%;
-      text-align: center;
+      width:60%;
       font-family: "Acme", sans-serif;
       font-weight: 400;
-      font-size: 70px;
-      line-height: 90px; 
+      font-size: 45px;
+      line-height: 50px; 
       letter-spacing: 0%;
       text-align: center;
 }
